@@ -1,7 +1,7 @@
 # zero_day
 
 This repository contains two projects:
-* 0x00-vagrant (Optionial);
+* 0x00-vagrant (optional);
 * 0x03. Git.
 
 The purpose of both projects is to learn how to use Git and Github.
